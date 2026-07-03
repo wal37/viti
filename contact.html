@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact Loresp | Cloud-Based Healthcare Network</title>
+  <meta name="description" content="Contact Loresp for hospital, care home, residential care, and community healthcare network enquiries.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="contact-page">
+  <main class="minimal-contact">
+    <a class="contact-logo" href="index.html" aria-label="Back to Loresp home">
+      <img src="logo.svg" alt="Loresp">
+    </a>
+
+    <section class="contact-card" aria-labelledby="contact-title">
+      <p class="eyebrow">Contact</p>
+      <h1 id="contact-title">Speak with Loresp</h1>
+      <p>Email: <a href="mailto:enquiry@loresp.com">enquiry@loresp.com</a></p>
+
+      <form class="contact-form minimal-form" action="mailto:enquiry@loresp.com" method="post" enctype="text/plain">
+        <label>
+          Name
+          <input type="text" name="name" placeholder="Your name" required>
+        </label>
+        <label>
+          Email
+          <input type="email" name="email" placeholder="name@example.com" required>
+        </label>
+        <label>
+          Organization
+          <input type="text" name="organization" placeholder="Hospital, care group, or agency">
+        </label>
+        <label>
+          Interest
+          <select name="interest">
+            <option>Hospital network</option>
+            <option>Care home group</option>
+            <option>Residential care</option>
+            <option>Community care</option>
+            <option>Partnership</option>
+          </select>
+        </label>
+        <label class="full">
+          Message
+          <textarea name="message" rows="5" placeholder="Tell us what you want to connect." required></textarea>
+        </label>
+        <button class="button button-primary" type="submit">Send enquiry</button>
+      </form>
+    </section>
+  </main>
+</body>
+</html>

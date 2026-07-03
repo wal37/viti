@@ -1,0 +1,11 @@
+<svg width="198" height="54" viewBox="0 0 198 54" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Loresp logo</title>
+  <desc id="desc">A clean healthcare cloud logo with a connected care symbol.</desc>
+  <rect width="198" height="54" rx="10" fill="#0C4F4B"/>
+  <path d="M31 35.5C37.4 35.5 42.5 30.4 42.5 24C42.5 17.6 37.4 12.5 31 12.5C24.6 12.5 19.5 17.6 19.5 24C19.5 30.4 24.6 35.5 31 35.5Z" fill="#C6DF57"/>
+  <path d="M31 18.5V29.5M25.5 24H36.5" stroke="#0C4F4B" stroke-width="3" stroke-linecap="round"/>
+  <path d="M43 38.5C49 35.2 52 30.2 52 23.5C52 16.8 49 11.8 43 8.5" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M19 38.5C13 35.2 10 30.2 10 23.5C10 16.8 13 11.8 19 8.5" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <text x="68" y="29" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Loresp</text>
+  <text x="70" y="42" fill="#CDEEE8" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.8">HEALTH NETWORK</text>
+</svg>
